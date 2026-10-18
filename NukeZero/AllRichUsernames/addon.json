@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "Global Name Styling",
+    "description": "Applies user group member name styles to all locations member names are displayed.",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "NukeZero",
+    "dev_url": "https://nukezero.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2030070,
+            "XenForo 2.3.0+"
+        ]
+    },
+    "icon": "fa-radiation"
+}
